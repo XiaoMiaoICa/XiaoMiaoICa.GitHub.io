@@ -1,0 +1,275 @@
+声明:本程序仅供技术分享，源代码公开！
+源代码:
+https://www.xiaomiao-ica.wiki/Personal_cloud_disk/#
+
+
+
+
+
+
+原游戏公告:
+
+爱丽丝的摇篮
+版本 0.24
+
+========== 1. 简介 ==========
+
+如果未满 18 周岁者玩本游戏、
+如果您未满 18 周岁，或者如果您希望通过视频分发服务等分发本游戏、
+请打开 “敏感模式”。
+
+游戏中描述的一些极端行为
+在现实生活中，本游戏中描述的某些极端行为将受到严厉惩罚。
+阅读此文的所有史莱姆和马坦哥人
+不要肆无忌惮地在炼金术士女孩身上下蛋。
+小心点
+
+主角诺埃尔设定为 15 岁、
+但因为这个世界的一年是 440 天为一个周期
+在我们的世界里，她已经超过 18 岁了。
+
+如果在启动 Mac 版本时看到 “无法打开，因为无法验证开发者 ”的信息
+如果看到 “无法打开，因为无法验证开发者 ”的提示，请按住 Control + 单击，从菜单中打开应用程序。
+从菜单中打开此应用程序以启动它。
+
+========== 2.游戏目标 ==========
+
+冒险探索地图。
+在当前（0.24 版）版本中，有两个区域可以探索
+(森林/综合商店）这两个区域都可以在当前（0.24 版）版本中进行探索。
+如果你达到了 100%，你就可以说你已经把这个版本玩到底了。
+我认为可以说你已经玩遍了这个版本。
+
+========== 3.操作方法 ==========
+
+键盘和控制器设置为默认设置。
+它们可以在 “按键配置 ”选项中进行调整。
+
+键盘箭头/控制器摇杆 ... 移动。
+键盘 Z / 控制器 3 ... 弱攻击
+键盘 X / 控制器 2 ... 魔法吟唱（按住不放）
+键盘左移 / 控制器 6 ... 护盾（按住左/右键进行闪避操作）
+键盘 A / 控制器 5 ... 地图
+键盘 D / 控制器 8 ... 项目
+键盘 ESC / 控制器 4 ... 菜单 ...
+
+使用游戏手柄时，首先使用标有 4 或 5 的按键配置进行输入操作。
+输入控制键，如 4、5 等。
+如果将它们改成熟悉的名称（R1、R2 等）
+会更容易上手。
+
+
+========== 4. 分发 ==========
+
+本游戏可自由发布和共享！
+如果您所在的平台不允许 R-18 分发
+如果您所在的平台不允许 R-18 分发，请务必打开健康模式。
+
+如果您想发布链接，请发布到以下网址之一
+
+Naname Hatcha Fantia
+https://fantia.jp/fanclubs/24531
+
+Nanamehatcha Ci-en
+https://ci-en.dlsite.com/creator/12611
+
+您也可以在社交网站上发表您对游戏的印象、错误报告、支持说明等。
+我们建议您在社交网站上发表游戏感想、错误报告、支持插图等时使用 #AliceInCradle 标签。
+
+========== 5.关于保存数据 ==========
+
+保存数据和日志文件的位置 (***.aicsave)
+macOS /<UserName>/Library/Application Support/com.NanameHacha.AliceInCradle
+	或 /<UserName>/Library/Application Support/NanameHacha/AliceInCradle/
+Windows <用户名>/AppData/LocalLow/NanameHacha/AliceInCradle/。
+
+如果出现问题，无法再启动，请删除
+删除 config.cfg
+(删除 config.cfg 不会影响已保存的数据）。
+如果要删除已保存的数据，请删除文件
+删除同一目录下的 Delete savedata_XX.aicsave。
+
+此外，ver 0.09 版本保存的数据不保证可以正常使用。
+不保证操作。
+
+========== 6.关于错误报告 ==========
+
+当发生错误时，下次播放时...
+对话框 “上一次游戏中产生了错误日志”。
+可能会显示对话框 “上一次游戏中生成了错误日志”。
+该错误日志可在上述目录的日志中找到。
+
+对于错误报告，您可以在官方 Discord 上发布错误报告，并注明
+出现错误的保存数据（如有必要）
+问题日志文件（包含开始游戏的日期和时间）
+请将以下信息发送给我们，以帮助我们开发游戏。
+
+https://discord.gg/DYPe69vSpD
+
+========== 关于本地化 ==========
+
+(MacOS）
+AliceInCradle.app/Contents/Resources/Data/StreamingAssets/localization/
+
+(Windows)
+AliceInCradle_Data/StreamingAssets/localization/ (Windows)
+
+========== 工作人员、合作 ==========
+
+导演、像素艺术、指导、场景、游戏设计：。
+@hinayua_r18 
+@hinayua_r18
+
+编程、概念艺术、像素艺术、插图、声音设计、部分翻译、可爱的 VTuber 推广员：。
+@HashinoMizuha 
+@HashinoMizuha
+
+生态场景场景：.
+T_Miyabi
+@T_Miyabi
+
+角色设计: T_Miyabi @T_Miyabi 
+Levigata: Futa 
+@futausa155
+Primula: Sunapua. 
+@sunapua3
+Iksha: Sekira Ame 
+@sekira_ame
+Nightingale: Wakura Ayatsuki. 
+@Aliceblue_tea
+其他：Hinayua 
+
+敌人设计： Mizuha Hashino
+Mizuha Hashino
+
+像素艺术素材：.
+Szadi art.
+https://szadiart.itch.io/
+
+城市 - 游戏瓷砖集：ludicarts
+https://ludicarts.itch.io/city-game-tileset
+
+站立表情符号：.
+Studio Demusato。
+https://demsato.booth.pm/items/3122939
+
+
+剪影素材：.
+https://booth.pm/ja/items/3052944
+
+
+音乐：.
+An-Fillnote @an_fillnote
+ginkiha @ginkiha
+日奈亚
+
+音乐制作人
+Ramine 
+https://2ram.com/
+
+Musmus
+https://musmus.main.jp
+
+ayato sound create
+http://ayatosound.blogspot.com
+
+Bimyu
+http://beemyu.com
+
+音效：. 
+魔王之魂
+https://maoudamashii.jokersounds.com/
+火柴人
+http://osabisi.sakura.ne.jp/m2/
+音效 3
+http://koukaongen.com/
+音效工作室
+https://umipla.com/
+
+试用版角色配音：.
+蜂蜜滴（诺埃尔-科尔内耶）
+日本动漫配音角色 F14（伊夏）
+Mizuha Hashino（怪物）
+
+字体：. 
+ULTIMUS SERIF - VPcreativeshop
+Logo Taipu Gothic - Fontna
+Utsukushi 字体 - Flop Design
+
+CabinCindensed-Bold
+版权 (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),.
+Copyright (c) 2011, Igino Marini. (www.ikern.com|mail@iginomarini.com),.
+保留字体名称 “Cabin ”和 “Cabin Condensed”。
+本字体软件采用 SIL Open Font License 1.1 版许可。
+该许可证复制如下，也可在以下网站获取常见问题解答：
+http://scripts.sil.org/OFL
+
+“Genno Mincho ”根据 SIL 开放字体许可协议授权使用
+https://source.typekit.com/source-han-serif/
+
+“Gensen Maru Gothic ”根据 SIL 开放字体许可协议授权使用
+https://github.com/ButTaiwan/gensen-font
+
+나눔스퀘어，나눔명조（韩文字体）
+https://hangeul.naver.com
+
+
+ver0.09-0.23 英语本地化:.
+rN (@rn_dtm)
+弗兰蒂卡
+Wyrd
+
+ver0.23 韩语本地化（fansub）：@Cilloom、@UWW
+@Cilloom, @UW_DRKor (监督)
+
+ver0.23繁体中文版的本地化（fansub）：@zelda05151 (监督)
+@zelda05151
+.N.
+
+ver0.23版简体中文本地化（fansub）：.
+感谢译者@rolling_badger,. 
+@szsrkirby, Phenix02,.
+@kokonoekyu, @Chiyuki34885962
+鹤川明日香、摇篮里的猫（@likaiqi16）、.
+扁尖笋, 哥哥我欧尼酱, 克劳恩和平, Éphemeral
+
+泰语本地化（fansub）：.
+@MKN_Makuno
+
+调试合作：.
+N 秒 @NSecond14
+Yasuto @Yasutoo_san
+Suzu @_iu__ui_.
+N.
+鹤川
+@zelda05151
+@Cilloom
+
+特别鸣谢 
+Spine - 神秘软件
+http://ja.esotericsoftware.com/
+
+本软件使用 CRI Middleware Co. Ltd. 的 “CRIWARE (TM)”。
+CRIWARE是CRI Middleware Co.的商标。
+https://game.criware.jp/products/adx2-le/
+
+轻量级图书 - guineaLion
+
+PixelPerfectCamera - GGEZ
+
+SVGMeshUtility - beinteractive Tweak
+https://github.com/beinteractive/SVGMeshUnity
+
+Unity Fire Shader - Minions Art
+https://www.patreon.com/posts/quick-game-art-17021975
+
+GlitchShader - RAKURAI WORKS
+https://rakuraiworks.booth.pm/items/1801380
+
+服务器维护：Cicini
+
+致所有观看直播的水寨人
+Fantia / Ci-en 支持者
+
+制作 / 版权
+Copyright (c) 2020- Nanamehacha ( @hinayua_r18 / @HashinoMizuha )
